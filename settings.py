@@ -1,3 +1,2 @@
-host = "127.0.0.1"
-port = "8000"
-password = ""
+download_dir = "/downloads"
+BUFFER_SIZE = 1024
